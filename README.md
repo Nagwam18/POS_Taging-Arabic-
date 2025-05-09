@@ -1,5 +1,4 @@
 # Arabic POS Tagging using asafaya/bert-base-arabic
-![POS Tagging using BERT]("C:\Users\Noga\Downloads\1610520893039.png")
 
 This project builds a Part-of-Speech (POS) tagging model for Arabic using the Hugging Face `transformers` library and asafaya/bert-base-arabic , trained on a CoNLL-U formatted dataset.
 
